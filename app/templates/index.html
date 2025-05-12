@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+{% block title %}Welcome{% endblock %}
+
+{% block content %}
+<div class="text-center mt-20">
+  <h1 class="text-4xl font-bold mb-4">Welcome to My Hackathon Project</h1>
+  <p class="text-gray-600 mb-6">A template to build apps quickly using Flask + FastAPI</p>
+  <div>
+    <a href="{{ url_for('router.login') }}" class="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600 mr-2">Login</a>
+    <a href="{{ url_for('router.register') }}" class="bg-gray-300 text-black px-6 py-2 rounded hover:bg-gray-400">Register</a>
+  </div>
+</div>
+{% endblock %}
