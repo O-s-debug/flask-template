@@ -1,7 +1,7 @@
 
-# 🚀 Flask + FastAPI Hackathon Template
+# 🚀 Flask + FastAPI Template
 
-A modern and secure **hackathon starter template** that combines a **Flask frontend** with a **FastAPI backend** — designed for rapid prototyping of AI/ML, data-driven, or web-based projects.
+A modern and secure **starter template** that combines a **Flask frontend** with a **FastAPI backend** — designed for rapid prototyping of AI/ML, data-driven, or web-based projects.
 
 ---
 
@@ -23,7 +23,7 @@ A modern and secure **hackathon starter template** that combines a **Flask front
 
 ```
 
-hackathon-template/
+flask-template/
 │
 ├── app/                      # Flask Frontend
 │   ├── __init__.py           # App factory
@@ -58,8 +58,8 @@ hackathon-template/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/diveshadivarekar/hackathon-template.git
-cd hackathon-template
+git clone https://github.com/diveshadivarekar/flask-template.git
+cd flask-template
 ````
 
 ---
