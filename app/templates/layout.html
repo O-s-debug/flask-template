@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% block title %}My Hackathon Project{% endblock %}</title>
+  <title>{% block title %}Flask Template{% endblock %}</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-900">
 
   <nav class="bg-white shadow p-4 flex justify-between">
-    <div class="text-xl font-semibold"><a href="/">Hackathon</a></div>
+    <div class="text-xl font-semibold"><a href="/">Flask Template</a></div>
     <div>
       {% if session.name %}
         <span class="mr-4">Hello, {{ session.name }}</span>
